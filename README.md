@@ -85,6 +85,7 @@ System Scalability   │  Cloud-Native (Azure)  │  CI/CD Pipelines
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**baby-programmer-slm**](https://github.com/yashodeepv/baby-programmer-small-language-model) | 🧠 A ~10.91M parameter decoder-only Transformer built from scratch — learns Java & CS fundamentals via knowledge distillation from Qwen3-Coder. No pre-trained base model used. | Python, PyTorch, Ollama |
 | [**design-patterns**](https://github.com/yashodeepv/design-patterns) | Gang-of-Four patterns with practical examples — companion to my YouTube channel | Java |
 | [**moneytransferservice**](https://github.com/yashodeepv/moneytransferservice) | Lightweight money transfer microservice with REST API and unit tests | Java, Undertow, JUnit |
 | [**supermarket**](https://github.com/yashodeepv/supermarket) | TDD-first supermarket pricing kata in Java 8 | Java 8, TDD |
